@@ -1,0 +1,1010 @@
+{
+  "source": "G:\\26.11.05-官网优化\\官网缺失项.xlsx",
+  "modified": 1793863359.9944518,
+  "rows": [
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "1",
+      "cells": [
+        {
+          "cell": "A1",
+          "text": "序号"
+        },
+        {
+          "cell": "B1",
+          "text": "缺失项分类"
+        },
+        {
+          "cell": "C1",
+          "text": "具体缺失描述"
+        },
+        {
+          "cell": "D1",
+          "text": "涉及APP"
+        },
+        {
+          "cell": "E1",
+          "text": "需要筹备的开发资源"
+        },
+        {
+          "cell": "F1",
+          "text": "对接人"
+        },
+        {
+          "cell": "G1",
+          "text": "预计结束"
+        },
+        {
+          "cell": "H1",
+          "text": "是否完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "2",
+      "cells": [
+        {
+          "cell": "A2",
+          "text": "1"
+        },
+        {
+          "cell": "B2",
+          "text": "下载入口与页面导航"
+        },
+        {
+          "cell": "C2",
+          "text": "1.PC端和Web端均无APK下载入口；\n2.Web端无App Store导航入口；\n3.内容模块与PC端信息架构不一致，缺少About Us等导航入口"
+        },
+        {
+          "cell": "D2",
+          "text": "Hago"
+        },
+        {
+          "cell": "E2",
+          "text": "官网前端；如需自动识别设备或管理下载包，需后端或发布配置支持"
+        },
+        {
+          "cell": "H2",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "3",
+      "cells": [
+        {
+          "cell": "D3",
+          "text": "Bolo"
+        },
+        {
+          "cell": "H3",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "4",
+      "cells": [
+        {
+          "cell": "D4",
+          "text": "Ola"
+        },
+        {
+          "cell": "H4",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "5",
+      "cells": [
+        {
+          "cell": "D5",
+          "text": "Tilike"
+        },
+        {
+          "cell": "H5",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "6",
+      "cells": [
+        {
+          "cell": "D6",
+          "text": "Infun"
+        },
+        {
+          "cell": "H6",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "7",
+      "cells": [
+        {
+          "cell": "D7",
+          "text": "Infriend"
+        },
+        {
+          "cell": "H7",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "8",
+      "cells": [
+        {
+          "cell": "D8",
+          "text": "Inchill"
+        },
+        {
+          "cell": "H8",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "9",
+      "cells": [
+        {
+          "cell": "D9",
+          "text": "Trumeet"
+        },
+        {
+          "cell": "H9",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "10",
+      "cells": [
+        {
+          "cell": "D10",
+          "text": "Ezpz"
+        },
+        {
+          "cell": "H10",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "11",
+      "cells": [
+        {
+          "cell": "D11",
+          "text": "Bangbo"
+        },
+        {
+          "cell": "H11",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "12",
+      "cells": [
+        {
+          "cell": "A12",
+          "text": "2"
+        },
+        {
+          "cell": "B12",
+          "text": "支付能力"
+        },
+        {
+          "cell": "C12",
+          "text": "没有第三方支付"
+        },
+        {
+          "cell": "D12",
+          "text": "Bolo"
+        },
+        {
+          "cell": "E12",
+          "text": "后端、前端；支付服务商或支付平台对接；测试及安全评估"
+        },
+        {
+          "cell": "H12",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "13",
+      "cells": [
+        {
+          "cell": "D13",
+          "text": "Tilike"
+        },
+        {
+          "cell": "H13",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "14",
+      "cells": [
+        {
+          "cell": "D14",
+          "text": "Infriend"
+        },
+        {
+          "cell": "H14",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "15",
+      "cells": [
+        {
+          "cell": "D15",
+          "text": "Inchill"
+        },
+        {
+          "cell": "H15",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "16",
+      "cells": [
+        {
+          "cell": "D16",
+          "text": "Ezpz"
+        },
+        {
+          "cell": "H16",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "17",
+      "cells": [
+        {
+          "cell": "D17",
+          "text": "Bangbo"
+        },
+        {
+          "cell": "H17",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "18",
+      "cells": [
+        {
+          "cell": "A18",
+          "text": "3"
+        },
+        {
+          "cell": "B18",
+          "text": "用户支持"
+        },
+        {
+          "cell": "C18",
+          "text": "1.没有客服入口；\n2.缺少FAQ，未覆盖充值、封号、举报、账号找回等常见问题"
+        },
+        {
+          "cell": "D18",
+          "text": "Hago"
+        },
+        {
+          "cell": "E18",
+          "text": "前端；如需工单、FAQ 管理或客服后台，需后端及相关系统对接"
+        },
+        {
+          "cell": "H18",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "19",
+      "cells": [
+        {
+          "cell": "D19",
+          "text": "Bolo"
+        },
+        {
+          "cell": "H19",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "20",
+      "cells": [
+        {
+          "cell": "D20",
+          "text": "Ola"
+        },
+        {
+          "cell": "H20",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "21",
+      "cells": [
+        {
+          "cell": "D21",
+          "text": "Tilike"
+        },
+        {
+          "cell": "H21",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "22",
+      "cells": [
+        {
+          "cell": "D22",
+          "text": "Infun"
+        },
+        {
+          "cell": "H22",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "23",
+      "cells": [
+        {
+          "cell": "D23",
+          "text": "Infriend"
+        },
+        {
+          "cell": "H23",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "24",
+      "cells": [
+        {
+          "cell": "D24",
+          "text": "Inchill"
+        },
+        {
+          "cell": "H24",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "25",
+      "cells": [
+        {
+          "cell": "D25",
+          "text": "Trumeet"
+        },
+        {
+          "cell": "H25",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "26",
+      "cells": [
+        {
+          "cell": "D26",
+          "text": "Ezpz"
+        },
+        {
+          "cell": "H26",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "27",
+      "cells": [
+        {
+          "cell": "D27",
+          "text": "Bangbo"
+        },
+        {
+          "cell": "H27",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "28",
+      "cells": [
+        {
+          "cell": "A28",
+          "text": "4"
+        },
+        {
+          "cell": "B28",
+          "text": "合规与安全"
+        },
+        {
+          "cell": "C28",
+          "text": "1.缺少平台协议\n2.反欺凌政策\n3.Cookie政策\n4.社区公约\n5.执法部门请求入口等"
+        },
+        {
+          "cell": "D28",
+          "text": "Hago"
+        },
+        {
+          "cell": "E28",
+          "text": "开发配合；视范围安排安全、法务或隐私合规评审"
+        },
+        {
+          "cell": "H28",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "29",
+      "cells": [
+        {
+          "cell": "D29",
+          "text": "Bolo"
+        },
+        {
+          "cell": "H29",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "30",
+      "cells": [
+        {
+          "cell": "D30",
+          "text": "Ola"
+        },
+        {
+          "cell": "H30",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "31",
+      "cells": [
+        {
+          "cell": "D31",
+          "text": "Tilike"
+        },
+        {
+          "cell": "H31",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "32",
+      "cells": [
+        {
+          "cell": "D32",
+          "text": "Infun"
+        },
+        {
+          "cell": "H32",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "33",
+      "cells": [
+        {
+          "cell": "D33",
+          "text": "Infriend"
+        },
+        {
+          "cell": "H33",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "34",
+      "cells": [
+        {
+          "cell": "D34",
+          "text": "Inchill"
+        },
+        {
+          "cell": "H34",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "35",
+      "cells": [
+        {
+          "cell": "D35",
+          "text": "Trumeet"
+        },
+        {
+          "cell": "H35",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "36",
+      "cells": [
+        {
+          "cell": "D36",
+          "text": "Ezpz"
+        },
+        {
+          "cell": "H36",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "37",
+      "cells": [
+        {
+          "cell": "D37",
+          "text": "Bangbo"
+        },
+        {
+          "cell": "H37",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "38",
+      "cells": [
+        {
+          "cell": "A38",
+          "text": "5"
+        },
+        {
+          "cell": "B38",
+          "text": "多语言支持"
+        },
+        {
+          "cell": "C38",
+          "text": "没有配置多语言"
+        },
+        {
+          "cell": "D38",
+          "text": "Bolo"
+        },
+        {
+          "cell": "E38",
+          "text": "前端；如内容需集中维护，需后端或内容管理系统支持；还需翻译资源"
+        },
+        {
+          "cell": "H38",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "39",
+      "cells": [
+        {
+          "cell": "D39",
+          "text": "Ola"
+        },
+        {
+          "cell": "H39",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "40",
+      "cells": [
+        {
+          "cell": "D40",
+          "text": "Tilike"
+        },
+        {
+          "cell": "H40",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "41",
+      "cells": [
+        {
+          "cell": "D41",
+          "text": "Inchill"
+        },
+        {
+          "cell": "H41",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "42",
+      "cells": [
+        {
+          "cell": "D42",
+          "text": "Trumeet"
+        },
+        {
+          "cell": "H42",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "43",
+      "cells": [
+        {
+          "cell": "D43",
+          "text": "Ezpz"
+        },
+        {
+          "cell": "H43",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "44",
+      "cells": [
+        {
+          "cell": "D44",
+          "text": "Bangbo"
+        },
+        {
+          "cell": "H44",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "45",
+      "cells": [
+        {
+          "cell": "A45",
+          "text": "6"
+        },
+        {
+          "cell": "B45",
+          "text": "产品介绍"
+        },
+        {
+          "cell": "C45",
+          "text": "缺少核心功能展示（或与谷歌详情页一致）"
+        },
+        {
+          "cell": "D45",
+          "text": "Bolo"
+        },
+        {
+          "cell": "E45",
+          "text": "前端；如需运营人员自行维护内容，需后端或 CMS 支持"
+        },
+        {
+          "cell": "H45",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "46",
+      "cells": [
+        {
+          "cell": "D46",
+          "text": "Tilike"
+        },
+        {
+          "cell": "H46",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "47",
+      "cells": [
+        {
+          "cell": "D47",
+          "text": "Infun"
+        },
+        {
+          "cell": "H47",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "48",
+      "cells": [
+        {
+          "cell": "D48",
+          "text": "Infriend"
+        },
+        {
+          "cell": "H48",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "49",
+      "cells": [
+        {
+          "cell": "D49",
+          "text": "Inchill"
+        },
+        {
+          "cell": "H49",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "50",
+      "cells": [
+        {
+          "cell": "D50",
+          "text": "Trumeet"
+        },
+        {
+          "cell": "H50",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "51",
+      "cells": [
+        {
+          "cell": "D51",
+          "text": "Ezpz"
+        },
+        {
+          "cell": "H51",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "52",
+      "cells": [
+        {
+          "cell": "D52",
+          "text": "Bangbo"
+        },
+        {
+          "cell": "H52",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "53",
+      "cells": [
+        {
+          "cell": "A53",
+          "text": "7"
+        },
+        {
+          "cell": "B53",
+          "text": "运营数据统计"
+        },
+        {
+          "cell": "C53",
+          "text": "官网没有配置国家/地区、DAU、支付数据等统计信息"
+        },
+        {
+          "cell": "D53",
+          "text": "Hago"
+        },
+        {
+          "cell": "E53",
+          "text": "前端埋点、数据分析或后端支持；必要时需数据分析资源"
+        },
+        {
+          "cell": "H53",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "54",
+      "cells": [
+        {
+          "cell": "D54",
+          "text": "Bolo"
+        },
+        {
+          "cell": "H54",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "55",
+      "cells": [
+        {
+          "cell": "D55",
+          "text": "Ola"
+        },
+        {
+          "cell": "H55",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "56",
+      "cells": [
+        {
+          "cell": "D56",
+          "text": "Tilike"
+        },
+        {
+          "cell": "H56",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "57",
+      "cells": [
+        {
+          "cell": "D57",
+          "text": "Infun"
+        },
+        {
+          "cell": "H57",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "58",
+      "cells": [
+        {
+          "cell": "D58",
+          "text": "Infriend"
+        },
+        {
+          "cell": "H58",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "59",
+      "cells": [
+        {
+          "cell": "D59",
+          "text": "Inchill"
+        },
+        {
+          "cell": "H59",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "60",
+      "cells": [
+        {
+          "cell": "D60",
+          "text": "Trumeet"
+        },
+        {
+          "cell": "H60",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "61",
+      "cells": [
+        {
+          "cell": "D61",
+          "text": "Ezpz"
+        },
+        {
+          "cell": "H61",
+          "text": "未完成"
+        }
+      ]
+    },
+    {
+      "sheet_file": "xl/worksheets/sheet1.xml",
+      "row": "62",
+      "cells": [
+        {
+          "cell": "D62",
+          "text": "Bangbo"
+        },
+        {
+          "cell": "H62",
+          "text": "未完成"
+        }
+      ]
+    }
+  ]
+}

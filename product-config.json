@@ -1,0 +1,58 @@
+{
+  "brand": "Ezpz",
+  "entity": "HAGO SINGAPORE PTE. LTD.",
+  "address": "30 PASIR PANJANG ROAD #15-31A MAPLETREE BUSINESS CITY SINGAPORE 117440",
+  "links": {
+    "apple": "https://apps.apple.com/bh/app/ezpz-dera/id1625619255",
+    "google": "https://play.google.com/store/apps/details?id=com.party.ezpz",
+    "apk": "",
+    "recharge": "",
+    "email": "contactezpzapp@gmail.com",
+    "terms": "https://www.ezpzapp.net/a/license/ezpz-user.html?lang=en",
+    "privacy": "https://www.ezpzapp.net/a/license/ezpz-privacy.html?lang=en",
+    "children": "https://www.ezpzapp.net/a/license/ezpz-children-policy.html?lang=en",
+    "xiaomi": "",
+    "oppo": "",
+    "vivo": "",
+    "huawei": ""
+  },
+  "colors": {
+    "primary": "#417865",
+    "accent": "#eac1ab",
+    "background": "#fcf7f0",
+    "text": "#49382f",
+    "border": "#e7d7cb"
+  },
+  "placeholders": {
+    "heroDesktop": [
+      1600,
+      900
+    ],
+    "heroMobile": [
+      900,
+      1600
+    ],
+    "scene": [
+      720,
+      1280
+    ]
+  },
+  "feedback": {
+    "en": {
+      "pending": "This destination is awaiting official confirmation.",
+      "recharge": "The Ezpz web recharge address is not confirmed. No payment has been started."
+    },
+    "zh": {
+      "pending": "此渠道地址待官方确认，暂未跳转。",
+      "recharge": "Ezpz 网页充值地址待官方确认，未发起任何支付。"
+    },
+    "hi": {
+      "pending": "इस लिंक की आधिकारिक पुष्टि बाकी है।",
+      "recharge": "Ezpz वेब रिचार्ज लिंक की पुष्टि बाकी है। कोई भुगतान शुरू नहीं हुआ है।"
+    },
+    "id": {
+      "pending": "Tujuan ini menunggu konfirmasi resmi.",
+      "recharge": "Alamat isi ulang web Ezpz belum dikonfirmasi. Tidak ada pembayaran yang dimulai."
+    }
+  }
+}

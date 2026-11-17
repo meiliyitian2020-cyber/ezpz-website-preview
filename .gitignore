@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+check-script.js
+*.zip
+sources/feishu.html
+sources/google-play.html
+sources/apple.html
+qa-initial.cjs
+tests/*.log

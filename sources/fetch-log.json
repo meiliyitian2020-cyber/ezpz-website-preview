@@ -1,0 +1,65 @@
+[
+  {
+    "file": "official-logo.png",
+    "url": "https://static.ezpzapp.net/a/ezpz-site-pc/assets/logo-DQER-zi7.png",
+    "final_url": "https://static.ezpzapp.net/a/ezpz-site-pc/assets/logo-DQER-zi7.png",
+    "status": 200,
+    "bytes": 47917
+  },
+  {
+    "file": "official-logo-small.png",
+    "url": "https://static.ezpzapp.net/a/ezpz-site-pc/assets/logo-small-C9u1ufkd.png",
+    "final_url": "https://static.ezpzapp.net/a/ezpz-site-pc/assets/logo-small-C9u1ufkd.png",
+    "status": 200,
+    "bytes": 11283
+  },
+  {
+    "file": "google-play.html",
+    "url": "https://play.google.com/store/apps/details?id=com.party.ezpz&hl=en",
+    "final_url": "https://play.google.com/store/apps/details?id=com.party.ezpz&hl=en",
+    "status": 200,
+    "bytes": 1223681
+  },
+  {
+    "file": "apple.html",
+    "url": "https://apps.apple.com/bh/app/dera-3d-avatar-meet-chat/id1625619255",
+    "final_url": "https://apps.apple.com/bh/app/ezpz-dera/id1625619255",
+    "status": 200,
+    "bytes": 608027
+  },
+  {
+    "file": "apple-lookup.json",
+    "url": "https://itunes.apple.com/lookup?id=1625619255&country=bh",
+    "final_url": "https://itunes.apple.com/lookup?id=1625619255&country=bh",
+    "status": 200,
+    "bytes": 6895
+  },
+  {
+    "file": "terms-original.html",
+    "url": "https://www.ezpzapp.net/a/license/ezpz-user.html?lang=en",
+    "final_url": "https://www.ezpzapp.net/a/license/ezpz-user.html?lang=en",
+    "status": 200,
+    "bytes": 12001
+  },
+  {
+    "file": "privacy-original.html",
+    "url": "https://www.ezpzapp.net/a/license/ezpz-privacy.html?lang=en",
+    "final_url": "https://www.ezpzapp.net/a/license/ezpz-privacy.html?lang=en",
+    "status": 200,
+    "bytes": 12007
+  },
+  {
+    "file": "children-original.html",
+    "url": "https://www.ezpzapp.net/a/license/ezpz-children-policy.html?lang=en",
+    "final_url": "https://www.ezpzapp.net/a/license/ezpz-children-policy.html?lang=en",
+    "status": 200,
+    "bytes": 12023
+  },
+  {
+    "file": "feishu.html",
+    "url": "https://lp3jrqympq.feishu.cn/wiki/X4Czwro8ci1QBikh3uRccNDMnsb?sheet=ymlzGV",
+    "final_url": "https://accounts.feishu.cn/accounts/page/login?app_id=2&no_trap=1&query_scope=all&redirect_uri=https%3A%2F%2Flp3jrqympq.feishu.cn%2Fwiki%2FX4Czwro8ci1QBikh3uRccNDMnsb%3Flogin_redirect_times%3D1%26sheet%3DymlzGV",
+    "status": 200,
+    "bytes": 92555
+  }
+]

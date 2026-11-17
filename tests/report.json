@@ -1,0 +1,450 @@
+{
+  "started": "2026-11-17T08:27:07.280Z",
+  "comparisons": [
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "en",
+      "route": "home",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "en",
+      "route": "about",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "en",
+      "route": "help",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "en",
+      "route": "contact",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "en",
+      "route": "safety",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "en",
+      "route": "policy/terms",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "en",
+      "route": "policy/privacy",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "en",
+      "route": "policy/children",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "en",
+      "route": "policy/community",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "en",
+      "route": "policy/bullying",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "en",
+      "route": "policy/cookies",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "en",
+      "route": "law-enforcement",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "zh",
+      "route": "home",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "zh",
+      "route": "about",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "zh",
+      "route": "help",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "zh",
+      "route": "contact",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "zh",
+      "route": "safety",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "zh",
+      "route": "policy/terms",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "zh",
+      "route": "policy/privacy",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "zh",
+      "route": "policy/children",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "zh",
+      "route": "policy/community",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "zh",
+      "route": "policy/bullying",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "zh",
+      "route": "policy/cookies",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "zh",
+      "route": "law-enforcement",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "hi",
+      "route": "home",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "hi",
+      "route": "about",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "hi",
+      "route": "help",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "hi",
+      "route": "contact",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "hi",
+      "route": "safety",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "hi",
+      "route": "policy/terms",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "hi",
+      "route": "policy/privacy",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "hi",
+      "route": "policy/children",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "hi",
+      "route": "policy/community",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "hi",
+      "route": "policy/bullying",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "hi",
+      "route": "policy/cookies",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "hi",
+      "route": "law-enforcement",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "id",
+      "route": "home",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "id",
+      "route": "about",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "id",
+      "route": "help",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "id",
+      "route": "contact",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "id",
+      "route": "safety",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "id",
+      "route": "policy/terms",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "id",
+      "route": "policy/privacy",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "id",
+      "route": "policy/children",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "id",
+      "route": "policy/community",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "id",
+      "route": "policy/bullying",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "id",
+      "route": "policy/cookies",
+      "differences": []
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "lang": "id",
+      "route": "law-enforcement",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "en",
+      "route": "home",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "en",
+      "route": "about",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "en",
+      "route": "help",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "en",
+      "route": "contact",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "en",
+      "route": "safety",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "en",
+      "route": "policy/terms",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "en",
+      "route": "policy/privacy",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "en",
+      "route": "policy/children",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "en",
+      "route": "policy/community",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "en",
+      "route": "policy/bullying",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "en",
+      "route": "policy/cookies",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "en",
+      "route": "law-enforcement",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "zh",
+      "route": "home",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "zh",
+      "route": "about",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "zh",
+      "route": "help",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "zh",
+      "route": "contact",
+      "differences":

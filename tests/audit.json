@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-17",
+  "display_copy": "template verbatim, product identity only",
+  "runtime_brand_scan": "passed",
+  "all_assets_local_and_present": true,
+  "scene_count": 5,
+  "placeholder_scenes": 5,
+  "event_attributes": "unchanged",
+  "channel_order": "unchanged",
+  "baseline_sha256": "5a79698af859992878ad6febd33991ab814c252d432356617ab20a5d22435be5",
+  "links": [
+    {
+      "key": "apple",
+      "status": 200,
+      "url": "https://apps.apple.com/bh/app/ezpz-dera/id1625619255",
+      "final_url": "https://apps.apple.com/bh/app/ezpz-dera/id1625619255"
+    },
+    {
+      "key": "google",
+      "status": 200,
+      "url": "https://play.google.com/store/apps/details?id=com.party.ezpz",
+      "final_url": "https://play.google.com/store/apps/details?id=com.party.ezpz"
+    },
+    {
+      "key": "apk",
+      "status": "not configured",
+      "value": ""
+    },
+    {
+      "key": "recharge",
+      "status": "not configured",
+      "value": ""
+    },
+    {
+      "key": "email",
+      "status": "email",
+      "value": "contactezpzapp@gmail.com"
+    },
+    {
+      "key": "terms",
+      "status": 200,
+      "url": "https://www.ezpzapp.net/a/license/ezpz-user.html?lang=en",
+      "final_url": "https://www.ezpzapp.net/a/license/ezpz-user.html?lang=en"
+    },
+    {
+      "key": "privacy",
+      "status": 200,
+      "url": "https://www.ezpzapp.net/a/license/ezpz-privacy.html?lang=en",
+      "final_url": "https://www.ezpzapp.net/a/license/ezpz-privacy.html?lang=en"
+    },
+    {
+      "key": "children",
+      "status": 200,
+      "url": "https://www.ezpzapp.net/a/license/ezpz-children-policy.html?lang=en",
+      "final_url": "https://www.ezpzapp.net/a/license/ezpz-children-policy.html?lang=en"
+    },
+    {
+      "key": "xiaomi",
+      "status": "not configured",
+      "value": ""
+    },
+    {
+      "key": "oppo",
+      "status": "not configured",
+      "value": ""
+    },
+    {
+      "key": "vivo",
+      "status": "not configured",
+      "value": ""
+    },
+    {
+      "key": "huawei",
+      "status": "not configured",
+      "value": ""
+    },
+    {
+      "key": "website",
+      "status": 200,
+      "url": "https://ezpzapp.net/",
+      "final_url": "https://ezpzapp.net/"
+    }
+  ]
+}

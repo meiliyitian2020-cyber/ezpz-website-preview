@@ -27,7 +27,7 @@ python -m http.server 8766 --bind 127.0.0.1 --directory dist
 
 GitHub Pages 自动发布已构建的 `dist/`。修改配置后先运行 Python 构建再提交。部署信息、当前提交与验证结果见 `DEPLOYMENT.md` 和 `tests/report.json`。
 
-`npm ci` 安装浏览器验证依赖，默认使用本机 Chrome；可设置 `QA_CHANNEL=msedge` 使用 Edge。完整对照测试需同时在 8767 端口只读提供原始 Ola 母版。运行 `node tests/verify.cjs`，覆盖 1440×900 / 390×844、四语言、页面路由和交互。浏览器测试不依赖生产统计或支付。
+`npm ci` 安装浏览器验证依赖，默认使用本机 Chrome；可设置 `QA_CHANNEL=msedge` 使用 Edge。运行 `npm test` 自动启动测试服务器，覆盖 1440×900 / 390×844、四语言、页面路由和交互。母版默认从指定原始目录只读加载，可用 `BASELINE_DIRECTORY` 指定其副本；只有对照测试需要该外部参考，正常构建和部署均独立。浏览器测试不依赖生产统计或支付。
 
 ## 内容边界
 

@@ -447,4 +447,251 @@
       "h": 844,
       "lang": "zh",
       "route": "contact",
-      "differences":
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "zh",
+      "route": "safety",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "zh",
+      "route": "policy/terms",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "zh",
+      "route": "policy/privacy",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "zh",
+      "route": "policy/children",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "zh",
+      "route": "policy/community",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "zh",
+      "route": "policy/bullying",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "zh",
+      "route": "policy/cookies",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "zh",
+      "route": "law-enforcement",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "hi",
+      "route": "home",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "hi",
+      "route": "about",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "hi",
+      "route": "help",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "hi",
+      "route": "contact",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "hi",
+      "route": "safety",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "hi",
+      "route": "policy/terms",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "hi",
+      "route": "policy/privacy",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "hi",
+      "route": "policy/children",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "hi",
+      "route": "policy/community",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "hi",
+      "route": "policy/bullying",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "hi",
+      "route": "policy/cookies",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "hi",
+      "route": "law-enforcement",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "id",
+      "route": "home",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "id",
+      "route": "about",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "id",
+      "route": "help",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "id",
+      "route": "contact",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "id",
+      "route": "safety",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "id",
+      "route": "policy/terms",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "id",
+      "route": "policy/privacy",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "id",
+      "route": "policy/children",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "id",
+      "route": "policy/community",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "id",
+      "route": "policy/bullying",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "id",
+      "route": "policy/cookies",
+      "differences": []
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "lang": "id",
+      "route": "law-enforcement",
+      "differences": []
+    }
+  ],
+  "interaction": [
+    {
+      "w": 1440,
+      "checks": "six slides; seven download channels; unknown destinations; language + persistence; FAQ search + category; required form fields + valid preview; cookies save/reject + persistence; mobile menu",
+      "passed": true
+    },
+    {
+      "w": 390,
+      "checks": "six slides; seven download channels; unknown destinations; language + persistence; FAQ search + category; required form fields + valid preview; cookies save/reject + persistence; mobile menu",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "alignmentIssues": [],
+  "summary": {
+    "comparisons": 96,
+    "geometryFailures": 0,
+    "textOverflowGroups": 0,
+    "errors": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "verifiedAt": "2026-11-17T08:31:00.986Z",
+  "results": [
+    {
+      "mode": "offline",
+      "width": 1440,
+      "height": 900,
+      "httpStatus": 200,
+      "finalUrl": "file:///G:/26.11.13-ezpz/ezpz-website-preview/dist/index.html?lang=zh",
+      "title": "联系我们 — Ezpz",
+      "initialCookies": 0,
+      "scriptAndConsoleErrors": [],
+      "passed": true,
+      "networkRequests": 0
+    },
+    {
+      "mode": "offline",
+      "width": 390,
+      "height": 844,
+      "httpStatus": 200,
+      "finalUrl": "file:///G:/26.11.13-ezpz/ezpz-website-preview/dist/index.html?lang=zh",
+      "title": "联系我们 — Ezpz",
+      "initialCookies": 0,
+      "scriptAndConsoleErrors": [],
+      "passed": true,
+      "networkRequests": 0
+    },
+    {
+      "mode": "anonymous-online",
+      "width": 1440,
+      "height": 900,
+      "httpStatus": 200,
+      "finalUrl": "https://meiliyitian2020-cyber.github.io/ezpz-website-preview/?lang=zh",
+      "title": "联系我们 — Ezpz",
+      "initialCookies": 0,
+      "scriptAndConsoleErrors": [],
+      "passed": true,
+      "networkRequests": 22
+    },
+    {
+      "mode": "anonymous-online",
+      "width": 390,
+      "height": 844,
+      "httpStatus": 200,
+      "finalUrl": "https://meiliyitian2020-cyber.github.io/ezpz-website-preview/?lang=zh",
+      "title": "联系我们 — Ezpz",
+      "initialCookies": 0,
+      "scriptAndConsoleErrors": [],
+      "passed": true,
+      "networkRequests": 22
+    }
+  ]
+}

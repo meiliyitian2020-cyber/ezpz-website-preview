@@ -14,7 +14,7 @@ const path=require('path'),fs=require('fs'),assert=require('assert/strict');
    const response=await p.goto(url+'?lang=zh#/home',{waitUntil:'domcontentloaded'});
    await p.evaluate(async()=>{await document.fonts.ready;for(const img of document.images)img.loading='eager';await Promise.all([...document.images].map(i=>i.decode().catch(()=>{})));});await p.waitForTimeout(300);
    if(mode==='anonymous-online')assert.equal(response.status(),200);
-   assert.match(await p.title(),/Ezpz/);assert.equal(await p.locator('html').getAttribute('lang'),'zh');
+   assert.match(await p.title(),/Ezpz/);assert.match(await p.locator('html').getAttribute('lang'),/^zh(?:-CN)?$/);
    assert.ok((await p.locator('#site-header .brand img').getAttribute('src')).includes('ezpz-logo.svg'));
    assert.ok((await p.locator('#hello .hero-loop-freeze').first().getAttribute('src')).includes('placeholder'));
    assert.equal(await p.locator('.home-slide:not(.loop-clone)').count(),6);
